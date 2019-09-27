@@ -15,6 +15,10 @@ Clone this repository on your local computer.
 
 3. docker-compose up -d
 
+and run the command below
+
+4. docker exec -it laravel_web chmod -R 777 /var/www/app/
+
 Your Laravel App is now ready!! You can access it via http://localhost:9004.
 
 You can access phpmyadmin via http://localhost:9005 with username root and password secret
