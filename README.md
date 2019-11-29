@@ -9,7 +9,7 @@ Installation:-
 Clone this repository on your local computer. 
 
 
-1. git clone https://github.com/1wayitsolution/laravel_app.git
+1. git clone https://github.com/sadhaura/laravel_app.git
 
 2. cd laravel_app
 
