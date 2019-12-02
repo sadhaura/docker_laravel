@@ -9,9 +9,9 @@ Installation:-
 Clone this repository on your local computer. 
 
 
-1. git clone https://github.com/sadhaura/laravel_app.git
+1. git clone https://github.com/sadhaura/docker_laravel.git
 
-2. cd laravel_app
+2. cd docker_laravel
 
 3. docker-compose up -d
 
